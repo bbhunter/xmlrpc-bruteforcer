@@ -1,23 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/K4aUmMo.png"></p>
-
 <h4 align="center">An XMLRPC BruteForcer for Wordpress  - Inpired by (1N3@CrowdShield)</h4>
 
-## Note - This project is discontinued. No more updates will be provided! Sorry!
-> I switched to golang :-)
-
-> Fork it/do whatever you want with it.
-
-<p align="center">
-  <a href="https://twitter.com/kavishgour"><b>Twitter</b></a>
-  <span> - </span>
-  <a href="https://t.me/kavishgr"><b>Telegram</b></a>
-  <span> - </span>
-  <a href="https://kavishgr.gitlab.io"><b>Blog</b></a>
-</p>
-
-| Available                            | in                                   |
-|--------------------------------------|--------------------------------------|
-| ![](https://i.imgur.com/1wJVDV5.png) | ![](https://i.imgur.com/z36xL8c.png) |
+# Note - This project is discontinued
 
 ## Usage
 
